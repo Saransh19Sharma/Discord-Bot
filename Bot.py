@@ -1,10 +1,14 @@
 from ast import alias
 from http.client import responses
 
+import os
+import asyncio
 import random
 import discord                                             # It is a module
 from discord.ext import commands , tasks
 from itertools import cycle
+
+import youtube_dl
 
 from jinja2 import pass_context                            # discord.ext is a extension # we import command becouse a bot can have so many commands
 status=cycle(['status1','status 2'])
