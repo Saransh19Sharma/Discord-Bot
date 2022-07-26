@@ -88,5 +88,5 @@ async def change_status():
 
 
 
-client.run('OTkyNTA4OTc0MDI2OTg1NDky.G8AN56.Ro2LpcMXDW-YPFD7G1rDgzPxTVeySmSMu_cLcM')
-# OTkzOTE3NTI2NDkwNzU1MDgy.G66686.dYSf4DonvO97LKyLjfe2E1_k-yzJnbk5B3g4P4 it is a token 
+client.run('Token')
+# OTkzOTE.......... it is a token 
