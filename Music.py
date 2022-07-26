@@ -218,4 +218,4 @@ async def view(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('OTkyNTA4OTc0MDI2OTg1NDky.G8AN56.Ro2LpcMXDW-YPFD7G1rDgzPxTVeySmSMu_cLcM')
+client.run('Token')
