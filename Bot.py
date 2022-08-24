@@ -89,5 +89,5 @@ async def unban(ctx, *, member):
 async def change_status():
     await client.change_presence(activity=discord.Game(next(status)))
 
-client.run('OTkyNTA4OTc0MDI2OTg1NDky.G8AN56.Ro2LpcMXDW-YPFD7G1rDgzPxTVeySmSMu_cLcM')
+client.run('OTkyNTA4OTc0MDI2OTg1NDky.GbpIQ6.DaMVYCzDvUU3jNr5MRSgin1TH3wm6c7iELJsCU')
 # OTkzOTE3NTI2NDkwNzU1MDgy.G66686.dYSf4DonvO97LKyLjfe2E1_k-yzJnbk5B3g4P4 it is a token 
